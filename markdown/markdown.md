@@ -28,6 +28,7 @@ Il nome della repo del nostro generatore di password dovrà chiamarsi: js-pwdgen
   - POI aprire questa cartella con VScode
   - POI con VScode creare dentro questa cartella un file index.html
   - predisporre le impostazioni di base dell'head dell'index.html E creare un body vuoto
+- PER OGNI passaggio successivo valutare quali parti di codice necessitano di un commento ad ok e quali non ne hanno bisogno/è superfluo
 - POI creare nel body un h1 con al suo interno le parole "Hello world" E dare ad H1 l'id "main-title"
 - POI creare una cartella fuori dall'index.html chiamata "js"
 - POI creare dentro la cartella js un file chiamato "main.js"
