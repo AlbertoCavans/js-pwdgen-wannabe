@@ -32,6 +32,7 @@ Il nome della repo del nostro generatore di password dovrà chiamarsi: js-pwdgen
 - POI creare nel body un h1 con al suo interno le parole "Hello world" E dare ad H1 l'id "main-title"
 - POI creare una cartella fuori dall'index.html chiamata "js"
 - POI creare dentro la cartella js un file chiamato "main.js"
+- POI in fondo al body di index.html inserire il collegamento al file main.js
 - POI aprire il file main.js
 - POI al suo interno creare una costante a cui assegnare come valore il document.getElementById('main-title')
 - POI al suo interno creare un prompt che raccoglie come informazione il nome dell'utente che se lo dovesse trovare davanti e la assegna alla costante che chiameremo "nome"
